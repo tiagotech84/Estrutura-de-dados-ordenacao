@@ -1,4 +1,7 @@
 package br.ucsal.edtruturaDeDados20191;
+/***@author Tiago Oliveira de Carvalho
+ * @version 1.0
+ */
 
 public class InsertSort {
 
